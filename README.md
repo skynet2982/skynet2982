@@ -1,7 +1,7 @@
 <!-- PRESENTATION -->
 ### Hi there 👋
 
-I'm a Software Engineer in Toulouse working with Big Data and DevOps technologies.
+I'm a Software Engineer in Toulouse working with BigData and DevOps technologies.
 
 ---
 
