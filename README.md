@@ -78,26 +78,6 @@ I'm a Software Engineer in Toulouse working with BigData and DevOps technologies
 
 ---
 
-<!-- FIND ME ON -->
-<p align="center">
-<img src="https://media.giphy.com/media/NNsZIeGJr8SqYqLrRv/giphy.gif" width="100"> 
-<h2 align="center">Find me on</h2>
-<p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/robinperice/?locale=en_US">
- <img src="https://img.shields.io/badge/-Robin%20Perice-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robinperice/?locale=en_US"/>
-</a>
-
-
-<a href="https://stackoverflow.com/story/robinperice">
- <img src="https://img.shields.io/badge/-Robin%20Perice-orange?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/story/robinperice"/>
-</a>
-
-</p>
-
----
-
 <!-- MY GITHUB STATS-->
 <p align="center">
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="100"> 
